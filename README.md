@@ -1,2 +1,2 @@
 # LeadScoringAssignment_WAN
-LeadScoringAssignment prepared by Nikita Wasi Arpan
+Lead Scoring Assignment prepared by Nikita Wasi Arpan
